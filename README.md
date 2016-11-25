@@ -6,4 +6,4 @@ A coming soon template for a South African Art Gallery.
     $ cd uthandoubomi-coming-soon
 
 Notes:
-The javscript library used to make the isometric polylines was stolen from [CodeLab.io](www.codelab.io)
+The javscript library used to make the isometric polylines was stolen from [CodeLab.io](http://www.codelab.io)
